@@ -14,9 +14,6 @@ Gradle
  `implementation 'com.github.dmkenza:FFmpeg-Android:1.1'`
 
 
-FFMpeg/FFprobe compiled for Android.
-Execute FFmpeg & FFprobe commands with ease in your Android project.
-
 
 
 
