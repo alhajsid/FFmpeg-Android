@@ -63,6 +63,9 @@ public class FFmpeg implements FFbinaryInterface {
 
             try {
                 InputStream inputStream = context.provide().getAssets().open(prefix + "ffmpeg");
+
+
+
                 if (!FileUtils.inputStreamToFile(inputStream, ffmpeg)) {
                     return false;
                 }
