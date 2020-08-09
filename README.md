@@ -1,6 +1,10 @@
 # FFmpeg-Android
 Fork of https://github.com/bravobit/FFmpeg-Android
 
+Deprecated. Dont work on Android 10
+Use instead https://github.com/tanersener/mobile-ffmpeg
+
+
 Fix very large size library 
 79.8MB ==> 13.2MB +  extra MB from libp7zip 
 
